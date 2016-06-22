@@ -1,8 +1,0 @@
-# Obtain these keys from the Telstra Developer Portal
-CONSUMER_KEY="your consumer key"
-CONSUMER_SECRET="your consumer secret"
-
-curl -X POST \
--H "Content-Type: application/x-www-form-urlencoded" \
--d "client_id=$CONSUMER_KEY&client_secret=$CONSUMER_SECRET&grant_type=client_credentials&scope=ACTIVATE_IDENTITY" \
-"https://api.telstra.com/v1/oauth/token"
