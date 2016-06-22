@@ -1,0 +1,8 @@
+{
+     "correlationId" : "58fb5c78-77ed-4f58-97e3-6e0ae3ce498e" ,
+     "timestamp" : "2016-01-19T01:00:05Z" ,
+     "data" :{
+         "digitalIdentifier" : "G1234567890" ,
+         "username" : "foo@bar.com"
+     }
+}
